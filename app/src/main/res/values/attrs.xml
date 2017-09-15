@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="itemHeight_def" format="dimension" />
+    <attr name="itemHeight_fold" format="dimension" />
+    <declare-styleable name="FoldableRecyclerView">
+        <attr name="itemHeight_def" />
+        <attr name="itemHeight_fold" />
+    </declare-styleable>
+</resources>
